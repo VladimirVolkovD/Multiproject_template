@@ -24,7 +24,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\BussinesObject\BussinesObject.csproj" />
-    <ProjectReference Include="..\SeleniumTests\Test.csproj" />
   </ItemGroup>
 
 </Project>
